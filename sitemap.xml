@@ -227,13 +227,6 @@
   </url>
   
   <url>
-    <loc>https://scorpionre.github.io/categories/CryptoDetect/paper/</loc>
-    <lastmod>2023-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://scorpionre.github.io/categories/CryptoDetect/algorithm/</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,14 +234,21 @@
   </url>
   
   <url>
-    <loc>https://scorpionre.github.io/categories/reverse/</loc>
+    <loc>https://scorpionre.github.io/categories/crypto/ctf/</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://scorpionre.github.io/categories/crypto/ctf/</loc>
+    <loc>https://scorpionre.github.io/categories/CryptoDetect/paper/</loc>
+    <lastmod>2023-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scorpionre.github.io/categories/reverse/</loc>
     <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
