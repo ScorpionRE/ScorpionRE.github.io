@@ -1,0 +1,10 @@
+class:
+  class_name: 友情链接
+  link_list:
+    -1:
+      name: M4tsuri
+      link: https://M4tsuri.io
+      avatar: /image/m4tsuri.jpg
+      descr: pwn,blockchain
+
+
